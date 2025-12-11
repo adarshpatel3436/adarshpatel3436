@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m an AIML student passionate about building intelligent systems  
-- 🌱 I’m currently learning Machine Learning, Python, and Full Stack  
+- 🔭 I’m an AIML student passionate about building AI systems  
+- 🌱 I’m currently learning Spring boot  
 - 👯 I’m looking to collaborate on AI/ML and open-source projects  
 - 💡 Exploring how AI can solve real-world problems  
 - 📫 How to reach me: pateladarsh3436@gmail.com  
-- ⚡ Fun fact: I love building projects fast!
+- ⚡ I love building projects 
 
 
 
